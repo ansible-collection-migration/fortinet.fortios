@@ -1,0 +1,15 @@
+namespace: fortinet
+name: fortios
+version: 0.1.0
+readme: README.md
+authors: null
+description: null
+license: GPL-3.0-or-later
+license_file: COPYING
+tags: null
+dependencies:
+  ansible.netcommon: '>=0.1.0'
+repository: git@github.com:ansible-collection-migration/fortinet.fortios.git
+documentation: https://github.com/ansible-collection-migration/fortinet.fortios/tree/master/docs
+homepage: https://github.com/ansible-collection-migration/fortinet.fortios
+issues: https://github.com/ansible-collection-migration/fortinet.fortios/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc
